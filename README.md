@@ -1,5 +1,6 @@
 <!-- Twitter when? -->
 <h6><span title="ロリ・レイプ"><p align="right">ロリコン</p></span></h6>
+<img height="40" align="left" src="https://skillicons.dev/icons?i=java,kotlin,idea&theme=dark"/>
 <h1><span title="によって所有されています!!!💢💢によって所有されています!!!💢"><p align="right">リヴリー!!!</p></span></h1>
 
 <br>
@@ -13,7 +14,6 @@
 <br>
 <p align="center">
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api?username=narumii&hide_progress=false&layout=compact&hide=glsl,batchfile&hide_title=true&show_icons=true&hide_border=true&border_radius=15&theme=omni"/>
   </picture>
 
   <br>
